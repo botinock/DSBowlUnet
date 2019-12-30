@@ -17,4 +17,4 @@ Model was created using Python framework Keras.
 First of all you should extract archives with images. To do this, just run **extract.py**. The script creates folders and
 extracts archives there. Next, for training of the model you need to run **data_utils.py** then **train.py** or instantly **train.py**. 
 **data_utils.py** saves the data in convenient **.npy** format. **train.py** loads the data and starts learning. At the end of learning,
-script will save the model. To predict, you should run **predict_mask.py**. The script will save masks in **.npy** format. 
+script will save the model. To predict, you should run **predict_masks.py**. The script will save masks in **.npy** format. 
