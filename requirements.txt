@@ -1,0 +1,5 @@
+Keras >= 2.2.5
+Tensorflow >= 1.15.0
+Numpy >=1.17.4
+skimage
+pandas
